@@ -26,7 +26,7 @@ Visualización de las imágenes Docker creadas para el proyecto, mostrando tanto
 Lista de contenedores Docker disponibles en el sistema, preparados para el despliegue de la aplicación.
 
 <div align="center">
-  <img src="ruta/imagen2.png" alt="Contenedores Docker Disponibles" width="800"/>
+  <img src="img/02_Containers.png" alt="Contenedores Docker Disponibles" width="800"/>
 </div>
 
 ---
@@ -36,7 +36,7 @@ Lista de contenedores Docker disponibles en el sistema, preparados para el despl
 Configuración y estado del servicio de SQL Server, mostrando que la base de datos está activa y disponible para las conexiones de la aplicación.
 
 <div align="center">
-  <img src="ruta/imagen3.png" alt="Servicio SQL Server Activo" width="800"/>
+  <img src="img/03_Service_DB.png" alt="Servicio SQL Server Activo" width="800"/>
 </div>
 
 ---
@@ -51,7 +51,7 @@ Contenedores tanto del backend como del frontend ejecutándose correctamente en 
 - **Frontend**: Puerto 4203
 
 <div align="center">
-  <img src="ruta/imagen4.png" alt="Contenedores Docker Ejecutándose" width="800"/>
+  <img src="img/04_Back_Front_Docker.png" alt="Contenedores Docker Ejecutándose" width="800"/>
 </div>
 
 ---
@@ -61,7 +61,7 @@ Contenedores tanto del backend como del frontend ejecutándose correctamente en 
 Verificación del funcionamiento del backend a través de Swagger UI, accediendo desde el navegador local para confirmar que la API responde correctamente.
 
 <div align="center">
-  <img src="ruta/imagen5.png" alt="Test Backend Swagger Local" width="800"/>
+  <img src="img/04_Test_Back_Docker_Local.png" alt="Test Backend Swagger Local" width="800"/>
 </div>
 
 ---
@@ -71,7 +71,7 @@ Verificación del funcionamiento del backend a través de Swagger UI, accediendo
 Prueba de funcionalidad del frontend Angular accediendo a la interfaz del modelo de seguridad desde el navegador local, confirmando la correcta comunicación con la API.
 
 <div align="center">
-  <img src="ruta/imagen6.png" alt="Test Frontend Local" width="800"/>
+  <img src="img/05_Test_Front_Docker_Local.png" alt="Test Frontend Local" width="800"/>
 </div>
 
 ---
@@ -81,7 +81,7 @@ Prueba de funcionalidad del frontend Angular accediendo a la interfaz del modelo
 Verificación del backend desde un dispositivo móvil utilizando la dirección IP del servidor, accediendo a través de Swagger para confirmar la conectividad externa.
 
 <div align="center">
-  <img src="ruta/imagen7.png" alt="Test Backend Swagger Móvil" width="800"/>
+  <img src="img/06_Test_Back_Docker_Mobile.png" alt="Test Backend Swagger Móvil" width="800"/>
 </div>
 
 ---
@@ -91,7 +91,7 @@ Verificación del backend desde un dispositivo móvil utilizando la dirección I
 Acceso a la aplicación Angular desde un dispositivo móvil utilizando la dirección IP, verificando que la interfaz se carga correctamente y mantiene la funcionalidad completa.
 
 <div align="center">
-  <img src="ruta/imagen8.png" alt="Test Frontend Móvil" width="800"/>
+  <img src="img/07_Test_Back_Docker_Mobile.png" alt="Test Frontend Móvil" width="800"/>
 </div>
 
 ---
@@ -103,7 +103,7 @@ Acceso a la aplicación Angular desde un dispositivo móvil utilizando la direcc
 Configuración de la aplicación backend en IIS, destacando la asignación del puerto 7069 y la correcta configuración del pool de aplicaciones.
 
 <div align="center">
-  <img src="ruta/imagen9.png" alt="Configuración Backend IIS" width="800"/>
+  <img src="img/08_Back_IIS.png" alt="Configuración Backend IIS" width="800"/>
 </div>
 
 ---
@@ -113,7 +113,7 @@ Configuración de la aplicación backend en IIS, destacando la asignación del p
 Configuración de la aplicación frontend en IIS, mostrando la asignación del puerto 4201 y los ajustes necesarios para servir la aplicación Angular.
 
 <div align="center">
-  <img src="ruta/imagen10.png" alt="Configuración Frontend IIS" width="800"/>
+  <img src="img/09_Front_IIS.png" alt="Configuración Frontend IIS" width="800"/>
 </div>
 
 ---
@@ -123,7 +123,7 @@ Configuración de la aplicación frontend en IIS, mostrando la asignación del p
 Verificación del funcionamiento del backend desplegado en IIS a través de Swagger UI, confirmando que la API responde correctamente en el puerto 7069.
 
 <div align="center">
-  <img src="ruta/imagen11.png" alt="Test Backend Swagger IIS Local" width="800"/>
+  <img src="img/10_Test_Back_IIS_Local.png" alt="Test Backend Swagger IIS Local" width="800"/>
 </div>
 
 ---
@@ -133,7 +133,7 @@ Verificación del funcionamiento del backend desplegado en IIS a través de Swag
 Prueba de la aplicación Angular desplegada en IIS, accediendo localmente al puerto 4201 para verificar la correcta carga de la interfaz y funcionalidad.
 
 <div align="center">
-  <img src="ruta/imagen12.png" alt="Test Frontend IIS Local" width="800"/>
+  <img src="img/11_Test_Front_IIS_Local.png" alt="Test Frontend IIS Local" width="800"/>
 </div>
 
 ---
@@ -143,7 +143,7 @@ Prueba de la aplicación Angular desplegada en IIS, accediendo localmente al pue
 Verificación del backend desplegado en IIS desde un dispositivo móvil, utilizando la dirección IP del servidor para confirmar el acceso externo a la API.
 
 <div align="center">
-  <img src="ruta/imagen13.png" alt="Test Backend Swagger IIS Móvil" width="800"/>
+  <img src="img/12_Test_Back_IIS_Mobile.png" alt="Test Backend Swagger IIS Móvil" width="800"/>
 </div>
 
 ---
@@ -153,7 +153,7 @@ Verificación del backend desplegado en IIS desde un dispositivo móvil, utiliza
 Acceso final a la aplicación Angular desplegada en IIS desde un dispositivo móvil, confirmando que tanto la interfaz como la comunicación con la API funcionan correctamente desde dispositivos externos.
 
 <div align="center">
-  <img src="ruta/imagen14.png" alt="Test Frontend IIS Móvil" width="800"/>
+  <img src="img/13_Test_Front_IIS_Mobile.png" alt="Test Frontend IIS Móvil" width="800"/>
 </div>
 
 ---
