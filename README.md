@@ -7,11 +7,16 @@ Este documento presenta las evidencias del despliegue exitoso de una aplicación
 - **Docker**: Contenedorización de los servicios
 - **IIS**: Despliegue tradicional en Internet Information Services
 
-> Video Explicativo de Comandos Basicos den Docker : <a href="https://ejemplo.com" target="_blank" rel="noopener noreferrer">Docker Console Basic</a>
-
-
-
 ---
+
+## 🎥 Recursos Adicionales
+
+<div align="center">
+  <h3>📺 Video Tutorial</h3>
+  <a href="https://ejemplo.com" target="_blank" rel="noopener noreferrer">
+    <strong>🚀 Docker Console Basic - Ver Video</strong>
+  </a>
+</div>
 
 ## 📋 Configuración Inicial
 
