@@ -7,6 +7,10 @@ Este documento presenta las evidencias del despliegue exitoso de una aplicación
 - **Docker**: Contenedorización de los servicios
 - **IIS**: Despliegue tradicional en Internet Information Services
 
+> Video Explicativo de Comandos Basicos den Docker : <a href="https://ejemplo.com" target="_blank" rel="noopener noreferrer">Docker Console Basic</a>
+
+
+
 ---
 
 ## 📋 Configuración Inicial
@@ -81,7 +85,7 @@ Prueba de funcionalidad del frontend Angular accediendo a la interfaz del modelo
 Verificación del backend desde un dispositivo móvil utilizando la dirección IP del servidor, accediendo a través de Swagger para confirmar la conectividad externa.
 
 <div align="center">
-  <img src="img/06_Test_Back_Docker_Mobile.png" alt="Test Backend Swagger Móvil" width="800"/>
+  <img src="img/06_Test_Back_Docker_Mobile.png" alt="Test Backend Swagger Móvil" width="400"/>
 </div>
 
 ---
@@ -91,7 +95,7 @@ Verificación del backend desde un dispositivo móvil utilizando la dirección I
 Acceso a la aplicación Angular desde un dispositivo móvil utilizando la dirección IP, verificando que la interfaz se carga correctamente y mantiene la funcionalidad completa.
 
 <div align="center">
-  <img src="img/07_Test_Back_Docker_Mobile.png" alt="Test Frontend Móvil" width="800"/>
+  <img src="img/07_Test_Back_Docker_Mobile.png" alt="Test Frontend Móvil" width="400"/>
 </div>
 
 ---
@@ -143,7 +147,7 @@ Prueba de la aplicación Angular desplegada en IIS, accediendo localmente al pue
 Verificación del backend desplegado en IIS desde un dispositivo móvil, utilizando la dirección IP del servidor para confirmar el acceso externo a la API.
 
 <div align="center">
-  <img src="img/12_Test_Back_IIS_Mobile.png" alt="Test Backend Swagger IIS Móvil" width="800"/>
+  <img src="img/12_Test_Back_IIS_Mobile.png" alt="Test Backend Swagger IIS Móvil" width="400"/>
 </div>
 
 ---
@@ -153,7 +157,7 @@ Verificación del backend desplegado en IIS desde un dispositivo móvil, utiliza
 Acceso final a la aplicación Angular desplegada en IIS desde un dispositivo móvil, confirmando que tanto la interfaz como la comunicación con la API funcionan correctamente desde dispositivos externos.
 
 <div align="center">
-  <img src="img/13_Test_Front_IIS_Mobile.png" alt="Test Frontend IIS Móvil" width="800"/>
+  <img src="img/13_Test_Front_IIS_Mobile.png" alt="Test Frontend IIS Móvil" width="400"/>
 </div>
 
 ---
@@ -177,14 +181,3 @@ Acceso final a la aplicación Angular desplegada en IIS desde un dispositivo mó
 
 ---
 
-## ✅ Conclusión
-
-Se ha completado exitosamente el despliegue de la aplicación en ambos entornos (Docker e IIS), verificando:
-
-1. ✅ Conectividad local en ambos métodos de despliegue
-2. ✅ Acceso externo desde dispositivos móviles
-3. ✅ Comunicación correcta entre frontend y backend
-4. ✅ Funcionamiento de la base de datos SQL Server
-5. ✅ Respuesta adecuada de todos los servicios
-
-El proyecto demuestra una implementación robusta y versátil, capaz de ejecutarse tanto en contenedores Docker como en servidores IIS tradicionales.
