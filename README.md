@@ -13,7 +13,7 @@ Este documento presenta las evidencias del despliegue exitoso de una aplicación
 
 <div align="center">
   <h3>📺 Video Tutorial</h3>
-  <a href="https://ejemplo.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/watch?v=j7y5uGAOxFY" target="_blank" rel="noopener noreferrer">
     <strong>🚀 Docker Console Basic - Ver Video</strong>
   </a>
 </div>
